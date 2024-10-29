@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(162, 100, 129) ;
+    color: rgb(4, 12, 24);
+ }
+ div{
+     width: 200px;
+     height: 200px;
+     margin: auto;
+     font-size: 64px;
+ }
+ h1{
+     text-align: center;
+ }
+ p{
+     text-align: center;
+     margin-top: 20px;
+     font-size: 20px;
+     color: rgb(27, 27, 138);
+ }
+ 
